@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/vegetables/static/css/main.f9fbfe39.css",
-    "main.js": "/vegetables/static/js/main.dfd7f92d.js",
+    "main.js": "/vegetables/static/js/main.69d8429f.js",
     "static/media/shop3.jpg": "/vegetables/static/media/shop3.b7f2b9d60b56d2726c89.jpg",
     "static/media/onion.jpg": "/vegetables/static/media/onion.e67698efa1c7cd348bdd.jpg",
     "static/media/shop2.jpg": "/vegetables/static/media/shop2.1c0896906189b5c59bb6.jpg",
     "static/media/lal-mirch.jpg": "/vegetables/static/media/lal-mirch.d57b79bafc83e398c309.jpg",
     "static/media/gajar.jpg": "/vegetables/static/media/gajar.db8fc6e5918a0bab4c86.jpg",
     "static/media/pattagobhi.jpg": "/vegetables/static/media/pattagobhi.86b9a7d32444feff528d.jpg",
-    "static/media/banner1.jpg": "/vegetables/static/media/banner1.5b8c4a812dd482ce4e8f.jpg",
     "static/media/tomato.jpg": "/vegetables/static/media/tomato.1045575701f43dfef659.jpg",
     "static/media/gobhi.jpg": "/vegetables/static/media/gobhi.bbfa6f2c698368a7b9c1.jpg",
     "static/media/shop1.jpg": "/vegetables/static/media/shop1.3d891e66678e68b88d59.jpg",
@@ -23,12 +22,13 @@
     "static/media/hari-mirch.jpg": "/vegetables/static/media/hari-mirch.e6f13e17bca232511497.jpg",
     "static/media/dhaniya.jpg": "/vegetables/static/media/dhaniya.11735910df7728e6fce6.jpg",
     "static/media/empty-cart.png": "/vegetables/static/media/empty-cart.621445dd735630479079.png",
+    "static/media/banner8.jpg": "/vegetables/static/media/banner8.bf37b06e3f5009443b9e.jpg",
     "index.html": "/vegetables/index.html",
     "main.f9fbfe39.css.map": "/vegetables/static/css/main.f9fbfe39.css.map",
-    "main.dfd7f92d.js.map": "/vegetables/static/js/main.dfd7f92d.js.map"
+    "main.69d8429f.js.map": "/vegetables/static/js/main.69d8429f.js.map"
   },
   "entrypoints": [
     "static/css/main.f9fbfe39.css",
-    "static/js/main.dfd7f92d.js"
+    "static/js/main.69d8429f.js"
   ]
 }
