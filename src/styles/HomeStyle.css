@@ -1,0 +1,89 @@
+.home {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.homeHeader{
+    width: auto;
+    margin-left: 50px;
+    color: black;
+}
+
+.home .homeHeader h1{
+    font-size: 60px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.home .homeHeader p{
+    font-size: 40px;
+    font-weight: lighter;
+    margin-top: 15px;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.home .homeHeader button{
+    background-color: green;
+    color:white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin-top: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    height: 50px;
+    width: 180px;    
+}
+
+.home .homeHeader button:hover{
+    background-color: purple;
+    cursor: pointer;
+}
+
+/* mobile view */
+
+@media only screen and (max-width:600px) {
+    .home{
+        justify-content: center;
+        align-items: center;
+    }
+
+    .home .homeHeader{
+        justify-content: center;
+        align-items: center;
+        margin-left: 0;
+        border-radius: 10px;
+        width: 95%;
+        display: flex;
+        flex-direction: column;
+        background-color: black;
+        color:white;
+    }
+    
+    .home .homeHeader h1 {
+        font-size: 35px;
+        height: 30px;
+        margin: 30px 0px;
+        color:white;
+    }
+
+    .home .homeHeader p {
+        font-size: 30px;
+        color:white;
+    }
+    
+    .home .homeHeader button {
+        font-size: 30px;
+        color:black;
+        background-color: green;
+        margin-bottom: 30px;
+    }
+}
