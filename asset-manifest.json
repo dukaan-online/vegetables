@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/vegetables/static/css/main.ff6870d0.css",
+    "main.js": "/vegetables/static/js/main.6b122ed8.js",
+    "static/media/shop3.jpg": "/vegetables/static/media/shop3.b7f2b9d60b56d2726c89.jpg",
+    "static/media/onion.jpg": "/vegetables/static/media/onion.e67698efa1c7cd348bdd.jpg",
+    "static/media/shop2.jpg": "/vegetables/static/media/shop2.1c0896906189b5c59bb6.jpg",
+    "static/media/lal-mirch.jpg": "/vegetables/static/media/lal-mirch.d57b79bafc83e398c309.jpg",
+    "static/media/gajar.jpg": "/vegetables/static/media/gajar.db8fc6e5918a0bab4c86.jpg",
+    "static/media/pattagobhi.jpg": "/vegetables/static/media/pattagobhi.86b9a7d32444feff528d.jpg",
+    "static/media/banner1.jpg": "/vegetables/static/media/banner1.5b8c4a812dd482ce4e8f.jpg",
+    "static/media/tomato.jpg": "/vegetables/static/media/tomato.1045575701f43dfef659.jpg",
+    "static/media/gobhi.jpg": "/vegetables/static/media/gobhi.bbfa6f2c698368a7b9c1.jpg",
+    "static/media/shop1.jpg": "/vegetables/static/media/shop1.3d891e66678e68b88d59.jpg",
+    "static/media/baingan.jpg": "/vegetables/static/media/baingan.0e3d6140752c6498bcdf.jpg",
+    "static/media/adrak.jpg": "/vegetables/static/media/adrak.834c6cde684c9e230ef2.jpg",
+    "static/media/aaloo.jpg": "/vegetables/static/media/aaloo.17dff115263ae8d7c1c8.jpg",
+    "static/media/lemon.jpg": "/vegetables/static/media/lemon.ba334741ef9c6ac3eec4.jpg",
+    "static/media/matar.jpg": "/vegetables/static/media/matar.c01126c2198f01c1bfa0.jpg",
+    "static/media/shima-mirch.jpg": "/vegetables/static/media/shima-mirch.297fe018187ffbc19ba2.jpg",
+    "static/media/lasun.jpg": "/vegetables/static/media/lasun.64f8307758ec704c5f02.jpg",
+    "static/media/corn.jpg": "/vegetables/static/media/corn.cacdf8f9245af8b61029.jpg",
+    "static/media/hari-mirch.jpg": "/vegetables/static/media/hari-mirch.e6f13e17bca232511497.jpg",
+    "static/media/dhaniya.jpg": "/vegetables/static/media/dhaniya.11735910df7728e6fce6.jpg",
+    "static/media/empty-cart.png": "/vegetables/static/media/empty-cart.621445dd735630479079.png",
+    "index.html": "/vegetables/index.html",
+    "main.ff6870d0.css.map": "/vegetables/static/css/main.ff6870d0.css.map",
+    "main.6b122ed8.js.map": "/vegetables/static/js/main.6b122ed8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff6870d0.css",
+    "static/js/main.6b122ed8.js"
+  ]
+}
