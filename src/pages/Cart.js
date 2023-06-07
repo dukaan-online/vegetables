@@ -164,7 +164,8 @@ const Cart = () => {
                                                 ml: 5
                                             }
                                         }}>
-                                            <CardMedia sx={{ minWidth: "100px", minHeight: "100px", maxHeight: "100px", maxWidth: "100px", objectFit: "contain" }} component={'img'} src={item.image} alt={item.name}></CardMedia>
+                                            <CardMedia sx={{ minWidth: "100px", minHeight: "100px", maxHeight: "100px", maxWidth: "100px", objectFit: "cover" }} component={'img'} src={item.image} alt={item.name}></CardMedia>
+                                            <Box sx={{display:"flex",flexDirection:"column",alignItems:"center"}}>
                                             <Typography variant="text" sx={{
                                                 fontWeight: "bold", px: 4,
                                                 "@media (max-width:600px)": {
@@ -175,6 +176,17 @@ const Cart = () => {
                                             }}>
                                                 {item.name}
                                             </Typography>
+                                            <Typography variant="text" sx={{
+                                                fontWeight: "bold", px: 4,
+                                                "@media (max-width:600px)": {
+                                                    fontSize: 20,
+                                                    fontWeight: "bold",
+                                                    px: 4
+                                                }
+                                            }}>
+                                                ({item.description})
+                                            </Typography>
+                                            </Box>
                                         </Box>
                                         <Box component={"div"} sx={{
                                             display: "flex",
